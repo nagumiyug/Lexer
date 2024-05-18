@@ -9,3 +9,4 @@
 5. mid_test.txt——预处理结果
 6. result_test.txt——词法分析结果
 7. table_test.txt——词法分析过程中的4个表
+8. B401-易乐-2024词法分析实习报告.docx——实验报告
