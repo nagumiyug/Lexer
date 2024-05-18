@@ -1,0 +1,44 @@
+
+// 这是一个单行注释
+int main() {
+    int a = 10, b = 20;
+    char c = 'y'; /* 定义字符常量 */
+    char *str = "Hello, world!"; // 字符串字面量
+
+    // 计算表达式
+    int result = a + b;
+    printf("Result: %d\n", result);
+
+    // 控制结构测试
+    if (a < b) {
+        printf("a is less than b\n");
+    } else {
+        printf("a is not less than b\n");
+    }
+
+    // 循环结构测试
+    for (int i = 0; i < 5; i++) {
+        printf("Loop %d\n", i);
+    }
+
+    /* 
+    多行注释
+    包含多个
+    换行符
+    */
+
+    // 未定义符号错误
+    ????
+    
+    while (a > 0) {
+        a--;
+    }
+
+    // 错误的字符和字符串常量
+    char wrongChar = 'ab'; // 错误的字符常量
+    char *wrongStr = "Unclosed string; // 错误的字符串字面量
+
+    return 0;
+}#
+// 测试结束符号
+a

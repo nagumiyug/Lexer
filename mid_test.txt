@@ -1,0 +1,44 @@
+
+
+int main() {
+int a = 10, b = 20;
+char c = 'y';
+char *str = "Hello, world!";
+
+
+int result = a + b;
+printf("Result: %d\n", result);
+
+
+if (a < b) {
+printf("a is less than b\n");
+} else {
+printf("a is not less than b\n");
+}
+
+
+for (int i = 0; i < 5; i++) {
+printf("Loop %d\n", i);
+}
+
+
+
+
+
+
+
+
+????
+
+while (a > 0) {
+a--;
+}
+
+
+char wrongChar = 'ab';
+char *wrongStr = "Unclosed string; // 错误的字符串字面量
+
+return 0;
+}#
+
+a

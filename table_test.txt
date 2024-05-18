@@ -1,0 +1,31 @@
+<Identifier>
+-id, value-
+0, a
+1, b
+2, c
+3, str
+4, result
+5, printf
+6, i
+7, wrongChar
+8, wrongStr
+
+<Constant-Character>
+-id, value-
+0, y
+
+<Constant-String>
+-id, value-
+0, Hello, world!
+1, Result: %d\n
+2, a is less than b\n
+3, a is not less than b\n
+4, Loop %d\n
+
+<Constant-Constant>
+-id, value-
+0, 10
+1, 20
+2, 0
+3, 5
+
